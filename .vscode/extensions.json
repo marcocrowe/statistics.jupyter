@@ -1,0 +1,10 @@
+{
+	"recommendations": [
+		"bierner.markdown-mermaid",
+		"bpruitt-goddard.mermaid-markdown-syntax-highlighting",
+		"yzhang.markdown-all-in-one",
+		"bierner.markdown-footnotes",
+		"shd101wyy.markdown-preview-enhanced",
+		"davidanson.vscode-markdownlint"
+	]
+}
